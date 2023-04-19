@@ -1,0 +1,43 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="m_gh$Iq@QbJ~3Q(bH}?o" x="526" y="-182"><statement name="HANDLER"><block type="device_print_message" id="/U88f=qTSr|^:/k_(.LY"><value name="text"><shadow type="text" id="=k}:wS,eciQ|N-s?;wO["><field name="TEXT">SELINA</field></shadow></value><next><block type="device_show_leds" id="y_iZF)}.M;l{sKk%zS:0"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # # # # # 
+        # . . . # 
+        # . . . #
+        `</field><next><block type="device_show_leds" id=",8Ari@FVweyK0jLc3ph`"><field name="LEDS">`
+        # # # # . 
+        # . . . . 
+        # # # # . 
+        # . . . . 
+        # # # # .
+        `</field><next><block type="device_show_leds" id="x~tp:bC_{%5%l!POI;Rh"><field name="LEDS">`
+        . # . . . 
+        . # . . . 
+        . # . . . 
+        . # . . . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="[fB4feN%ENBm?2apSJu,"><field name="LEDS">`
+        . # . . . 
+        . # . . . 
+        . # . . . 
+        . # . . . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="@4XPJROiARM{211KjT`6"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        . # . # . 
+        . # . # . 
+        . . # . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="ns-j*7b?-dec|#jwU/m." x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="Wdt;BjSLx.5`dG1I{RYQ"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="basic_show_icon" id="2L%#Ap9XfMpw0;AU{Fs8"><field name="i">IconNames.SmallHeart</field><next><block type="basic_show_icon" id="Y_=W7M*u5D0_-!tqdhqG"><field name="i">IconNames.Heart</field><next><block type="device_pause" id=",Ln$keA.8pRMyppkD.Wo"><value name="pause"><shadow type="timePicker" id="M@AntfYWY@jgekv=$=dL"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="k.sc=)Lg0`V/k=L$T99C"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field></block></next></block></next></block></next></block></next></block></statement></block></xml>
